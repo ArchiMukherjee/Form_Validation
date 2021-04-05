@@ -1,0 +1,44 @@
+body{background-color:#D0DDD1;}
+.h1{font-family:"Times New Roman", Times, serif;
+  
+}
+h1{font-size: 30px; 
+  color: #4B3AAA;
+  padding: 5px 10px;
+  text-align:center;
+}
+.h2{font-family:"Times New Roman", Times, serif;
+}
+h2{font-size: 20px;
+text-align:center;
+color:#F30F0C;
+}
+.field_set{border-color:#F00;
+border-style: solid;
+
+}
+legend {
+  background-color: #4B3AAA ;
+  color: white;
+  padding: 5px 10px;
+  
+  
+}
+.field {
+    width: 0;
+    margin:0 auto;
+    background-color:#5873B3;
+   
+}
+form{
+  text-align:center;
+  
+}
+.button{
+  background-color:  #4B3AAA;
+ 
+  color: white;
+
+
+}
+
